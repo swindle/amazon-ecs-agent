@@ -46,5 +46,8 @@ https://github.com/aws/amazon-ecs-agent/commit/c9aefebc2b3007f09468f651f6308136b
 -->
 
 ### Licensing
-
-By submitting this pull request, I confirm that my contribution is made under the terms of the Apache 2.0 license.
+<!--
+Please confirm that this contribution is under the terms of the Apache 2.0
+License.
+-->
+This contribution is under the terms of the Apache 2.0 License: <!-- yes -->
